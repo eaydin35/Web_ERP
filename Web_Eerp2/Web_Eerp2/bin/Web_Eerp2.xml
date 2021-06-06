@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Web_Eerp2
+</name>
+</assembly>
+<members>
+<member name="T:Web_Eerp2.My.MyWebExtension">
+ <summary>
+ My Namespace for Web projelerinde kullanılabilen özellikleri tanımlamak için kullanılan modül.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Web_Eerp2.My.MyWebExtension.Computer">
+ <summary>
+ Ana bilgisayarla ilgili bilgiler döndürür.
+ </summary>
+</member>
+<member name="P:Web_Eerp2.My.MyWebExtension.User">
+ <summary>
+ Geçerli Web kullanıcısıyla ilgili bilgiler döndürür.
+ </summary>
+</member>
+<member name="P:Web_Eerp2.My.MyWebExtension.Request">
+ <summary>
+ Request nesnesi döndürür.
+ </summary>
+</member>
+<member name="P:Web_Eerp2.My.MyWebExtension.Response">
+ <summary>
+ Response nesnesi döndürür.
+ </summary>
+</member>
+<member name="P:Web_Eerp2.My.MyWebExtension.Log">
+ <summary>
+ Asp günlüğü nesnesi döndürür.
+ </summary>
+</member>
+</members>
+</doc>
