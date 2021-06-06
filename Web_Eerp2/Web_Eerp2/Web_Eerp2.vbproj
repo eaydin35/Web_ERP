@@ -92,11 +92,21 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="entegrasyonlar.aspx" />
+    <Content Include="pazar_yerleri.aspx" />
+    <Content Include="urunler.aspx" />
     <Content Include="urun_ekleme.aspx" />
     <Content Include="Web.config" />
     <Content Include="index.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="entegrasyonlar.aspx.designer.vb">
+      <DependentUpon>entegrasyonlar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="entegrasyonlar.aspx.vb">
+      <DependentUpon>entegrasyonlar.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -121,6 +131,20 @@
     </Compile>
     <Compile Include="index.aspx.vb">
       <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="pazar_yerleri.aspx.designer.vb">
+      <DependentUpon>pazar_yerleri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pazar_yerleri.aspx.vb">
+      <DependentUpon>pazar_yerleri.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="urunler.aspx.designer.vb">
+      <DependentUpon>urunler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="urunler.aspx.vb">
+      <DependentUpon>urunler.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="urun_ekleme.aspx.designer.vb">
