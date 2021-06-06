@@ -32,8 +32,8 @@
                 <!-- Nested Row within Card Body -->
                 <div class="row">
                     <div class="col-lg-5 d-none d-lg-block ">
-                        <img style="width: 100%; height: 50%;" src="https://img-lcwaikiki.mncdn.com/mnresize/800/-/productimages/20192/1/3800832/l_20192-9wm197z8-myu_a.jpg"> 
-                        <img style="width: 100%; height: 50%;" src="https://img-lcwaikiki.mncdn.com/mnresize/800/-/productimages/20192/1/3800832/l_20192-9wm197z8-myu_a.jpg"> 
+                        <img style="border:double; width: 100%; height: 50%;" src="https://img-lcwaikiki.mncdn.com/mnresize/800/-/productimages/20192/1/3800832/l_20192-9wm197z8-myu_a.jpg"> 
+                        <img style="border:double; width: 100%; height: 50%;" src="https://img-lcwaikiki.mncdn.com/mnresize/800/-/productimages/20192/1/3800832/l_20192-9wm197z8-myu_a.jpg"> 
                     </div>
 
                     <div class="col-lg-7">
